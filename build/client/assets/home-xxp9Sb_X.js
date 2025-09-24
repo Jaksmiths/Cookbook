@@ -1,0 +1,1 @@
+import{w as t,p as o,v as e}from"./chunk-UH6JLGW7-2ts3TPiB.js";const r=t(function(){return o.jsxs("main",{children:[o.jsx("h1",{children:"Hello, welcome to my website."}),o.jsx(e,{to:"/dog",children:"Dog Generator"}),o.jsx(e,{to:"/cookbook",children:"Cookbook"})]})});export{r as default};
